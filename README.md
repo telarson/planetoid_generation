@@ -1,5 +1,7 @@
 # planetoid_generation
-Generating planetoid terrain in unity using a variety of noises. Project for CIS 536 at Kansas State University. 
+Generating planetoid terrain in unity using a variety of noises.  This repo contains the 
+planetoid generation scripts and dependences for use in a Unity project. Project for CIS 536 
+at Kansas State University. 
 
 # Overview
 This project consists of a Unity implementation of noise derived spherical terrain for planetoids.
