@@ -1,5 +1,5 @@
 # planetoid_generation
-Generating planetoid terrain in unity using a variety of  noises. Project for CIS 536 at Kansas State University. 
+Generating planetoid terrain in unity using a variety of noises. Project for CIS 536 at Kansas State University. 
 
 # Overview
 This project consists of a Unity implementation of noise derived spherical terrain for planetoids.
@@ -67,12 +67,16 @@ method of evaluation and incorporating colorings based on metrics other than hei
 # Background & Related Work
 Flick, J. (2018). Noise derivatives, a Unity C# TUTORIAL. Retrieved May 13, 2021, from
 https://catlikecoding.com/unity/tutorials/noise-derivatives/
+
 Lague, S. (2019, April 8). Procedural planet generation. Retrieved May 13, 2021, from
 https://youtube.com/playlist?list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8
+
 Patel, A. (2020, May). Making maps with noise functions. Retrieved May 13, 2021, from
 https://www.redblobgames.com/maps/terrain-from-noise/
+
 Standen, J. (2016, September 6). Simplex Noise in C# for Unity3D. Retrieved May 13,
 2021, from https://gist.github.com/jstanden/1489447
+
 Takahashi, K. (2015, December 10). Keijiro/perlinnoise. Retrieved May 13, 2021, from
 https://github.com/keijiro/PerlinNoise
 
