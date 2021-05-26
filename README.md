@@ -3,7 +3,7 @@ Generating planetoid terrain in unity using a variety of noises.  This repo cont
 planetoid generation scripts and dependences for use in a Unity project. Project for CIS 536 
 at Kansas State University. 
 
-![Image of Planetoid] (https://github.com/telarson/planetoid_generation/blob/main/perlin-sub6-min0-max0.1-rough2-colorEarth.gif)
+![Image of Planetoid](https://github.com/telarson/planetoid_generation/blob/main/perlin-sub6-min0-max0.1-rough2-colorEarth.gif)
 
 # Overview
 This project consists of a Unity implementation of noise derived spherical terrain for planetoids.
