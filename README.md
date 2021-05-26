@@ -4,6 +4,7 @@ planetoid generation scripts and dependences for use in a Unity project. Project
 at Kansas State University. 
 
 ![Image of Planetoid](https://github.com/telarson/planetoid_generation/blob/main/perlin-sub6-min0-max0.1-rough2-colorEarth.gif)
+
 The above planetoid was generated using perlin noise on an icosphere subdivided six times.
 
 # Overview
