@@ -82,5 +82,4 @@ https://github.com/keijiro/PerlinNoise
 
 Winslow, P. (2021, January 26). Creating procedural planets in unity - part 1. Retrieved
 May 13, 2021, from
-https://peter-winslow.medium.com/creating-procedural-planets-in-unity-part-1-df83ecb12e
-91
+https://peter-winslow.medium.com/creating-procedural-planets-in-unity-part-1-df83ecb12e91
